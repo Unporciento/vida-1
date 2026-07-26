@@ -16,7 +16,7 @@ Vida 1% es una plataforma cálida y cercana de crecimiento personal. Reúne háb
 | Última auditoría | 26/07/2026 |
 | Responsable | Usuario |
 | IA principal | Codex |
-| Documentación | README · CHANGELOG · AI_HANDOFF · SECURITY |
+| Documentación | README · CHANGELOG · AI_HANDOFF · SECURITY · docs/ |
 | Último respaldo | 26/07/2026 — repositorio inicial |
 | Próxima fase | Identidad del producto, arquitectura y relación entre módulos |
 
@@ -40,4 +40,5 @@ Vida 1% es una plataforma cálida y cercana de crecimiento personal. Reúne háb
 - [Historial de cambios](CHANGELOG.md)
 - [Guía de continuidad para IA](AI_HANDOFF.md)
 - [Política de seguridad](SECURITY.md)
-
+- [Arquitectura](docs/ARCHITECTURE.md)
+- [Estándar de inicio](docs/ECOSYSTEM_STANDARD.md)

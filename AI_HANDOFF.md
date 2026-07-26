@@ -20,7 +20,18 @@ El proyecto se encuentra en fase de definición. Aún no hay una implementación
 
 Definir la identidad del producto, la arquitectura y la relación entre los módulos antes de implementar funciones.
 
+## Protocolo de inicio obligatorio
+
+Ningún proyecto del ecosistema comienza escribiendo código. El orden es siempre:
+
+1. Repositorio
+2. Documentación
+3. Arquitectura
+4. Fase 1
+5. Código
+
+La estructura base compartida está documentada en `docs/ECOSYSTEM_STANDARD.md`.
+
 ## Criterio de decisión
 
 Toda propuesta debe reforzar la autonomía del usuario, evitar dinámicas de culpa y hacer visible el progreso sin convertirlo en una obligación.
-
