@@ -36,6 +36,10 @@ Ningún proyecto del ecosistema comienza escribiendo código. El orden es siempr
 
 La estructura base compartida está documentada en `docs/ECOSYSTEM_STANDARD.md`.
 
+## Estándar de desarrollo
+
+Este proyecto adopta `docs/DEVELOPMENT_STANDARD.md`.
+
 ## Criterio de decisión
 
 Toda propuesta debe reforzar la autonomía del usuario, evitar dinámicas de culpa y hacer visible el progreso sin convertirlo en una obligación.
