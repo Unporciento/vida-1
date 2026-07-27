@@ -16,6 +16,10 @@ El proyecto se encuentra en fase de definición. Aún no hay una implementación
 - Vault
 - Genesis
 
+## Módulo interno futuro
+
+- **Laboratorio:** sistema de diagnóstico seguro, interno y no visible en la experiencia normal. Primero diagnostica, luego propone y solo repara con autorización expresa. Ver `docs/LABORATORIO.md`.
+
 ## Próxima fase
 
 Definir la identidad del producto, la arquitectura y la relación entre los módulos antes de implementar funciones.
